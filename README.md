@@ -1,3 +1,3 @@
 # GitTutorial
 This my first git tutorial.
-Author Rakesh
+Author Rakesh N
